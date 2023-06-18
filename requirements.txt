@@ -23,7 +23,7 @@ decorator @ file:///opt/conda/conda-bld/decorator_1643638310831/work
 defusedxml @ file:///tmp/build/80754af9/defusedxml_1615228127516/work
 entrypoints @ file:///C:/ci/entrypoints_1649926621128/work
 executing @ file:///opt/conda/conda-bld/executing_1646925071911/work
-fastjsonschema @ file:///C:/Users/BUILDE~1/AppData/Local/Temp/abs_ebruxzvd08/croots/recipe/python-fastjsonschema_1661376484940/work
+fastjsonschema @ file:///C:/Users/BUILDE~1/AppData/Local/Temp/abs_ebruxzvd08/croots/recipe/python-fastjsonschema_1661376484940/work        
 Flask @ file:///C:/b/abs_ef16l83sif/croot/flask_1671217367534/work
 fonttools==4.39.4
 idna @ file:///C:/b/abs_bdhbebrioa/croot/idna_1666125572046/work
@@ -113,3 +113,4 @@ Werkzeug @ file:///C:/b/abs_8578rs2ra_/croot/werkzeug_1679489759009/work
 win-inet-pton @ file:///C:/ci/win_inet_pton_1605306162074/work
 xgboost==1.7.5
 zipp @ file:///C:/b/abs_b9jfdr908q/croot/zipp_1672387552360/work
+
