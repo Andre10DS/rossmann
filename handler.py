@@ -4,6 +4,7 @@ import pandas as pd
 from flask import Flask, request, Response
 from rossmann.Rossmann import Rossmann
 
+
 # loading model
 model = pickle.load( open( 'model/model_rossmann.pkl', 'rb') )
                           
