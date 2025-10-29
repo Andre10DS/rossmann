@@ -1,9 +1,7 @@
 
-![Rossmann](img/rossmann_logo.png)
 
+![Rossmann](https://raw.githubusercontent.com/Andre10DS/rossmann/main/img/rossmann_logo.png)
 
-
-![Rossmanndd](https://raw.githubusercontent.com/Andre10DS/rossmann/main/img/rossmann_logo.png)
 
 ## Este projeto tem o objetivo de realizar a previsão de vendas da rede de farmácia Rossmann
 
@@ -47,7 +45,7 @@ Buscando, reduzir os pontos negativos do modelo atual, o CFO solicita a equipe d
 
 Para a construção da solução foi utilizado a metodologia CRISP-DS focado na entrega de uma solução rápida que atenda as necessidades iniciais e, posteriormente, melhorada em novos ciclos.
 
-![CRISP_DS](img/CRISP_DS.png)
+![CRISP_DS](https://raw.githubusercontent.com/Andre10DS/rossmann/main/img/CRISP_DS.png)
 
 O método CRISP-DS consiste em 9 passos que são percorridos até a finalização da entrega. Tais passos são cíclicos e em cada rodada o produto é melhorado. A vantagem desse método é a agilidade, que possibilita melhorias contínuas e entregas mais rápidas.
 
@@ -123,20 +121,20 @@ A análise exploratória dos dados, juntamente com as analises descritivas, perm
 
 H1: Lojas com competidores à mais tempo devem vender mais.
 
-![Hipotese_1](img/Hipotese_1.png)
+![Hipotese_1](https://raw.githubusercontent.com/Andre10DS/rossmann/main/img/Hipotese_1.png)
 
 Hipótese Falsa: As lojas apresentam um aumento ao longo do tempo até determinado período onde ocorre uma inversão e o faturamento cai até estabilizar com uma leve tendência de queda.
 
 H2: Lojas com maior sortimentos deveriam vender mais.
 
-![Sortimento](img/Sortimento.png)
+![Sortimento](https://raw.githubusercontent.com/Andre10DS/rossmann/main/img/Sortimento.png)
 
 Hipótese falsa: Lojas com sortimento maior tem um menor faturamento.
 
 
 H3: Lojas com competidores mais próximos deveriam vender menos.
 
-![Competidores](img/competidores.png)
+![Competidores](https://raw.githubusercontent.com/Andre10DS/rossmann/main/img/competidores.png)
 
 Hipótese falsa: Lojas com competidores próximos vendem mais.
 
@@ -165,18 +163,15 @@ Os gráficos abaixo demonstram que o modelo utilizado apresentou um performance 
 
 Este primeiro gráfico representa as curvas de predição e real para o conjuto de teste. Pode verificar que as predições ficaram próximas da linha de sales, demonstrando que o modelo conseguiu prever de forma aceitável os valores de sales.
 
-
-![Sales](img/Graficos_sales_predictions.png)
+![Sales](https://raw.githubusercontent.com/Andre10DS/rossmann/main/img/Graficos_sales_predictions.png)
 
 Neste gráfico, podemos verificar a taxa de erro para as próximas seis semanas. Verificamos que na maior parte do período o erro ocila entre +10% e -10%, demonstrando uma taxa de erro aceitável.
 
-
-![Taxa_erro](img/Taxa_erro.png)
+![Taxa_erro](https://raw.githubusercontent.com/Andre10DS/rossmann/main/img/Taxa_erro.png)
 
 Os gráficos abaixos representam a distribuição dos erros. Podemos verificar que apresentam um comportamento semelhante a uma distribuição normal demonstrando que o modelo apresenta um bom resultado.
 
-
-![Distribuicao_dos_erros](img/Distribuicao_dos_erros.png)
+![Distribuicao_dos_erros](https://raw.githubusercontent.com/Andre10DS/rossmann/main/img/Distribuicao_dos_erros.png)
 
 # 7. Resultados para o negócio
 
@@ -186,13 +181,11 @@ O projeto permitiu o CFO obter as previsões de vendas de forma mais padronizada
 
 Conforme planejamento, foi construindo um bot no Telegram para facilitar o acesso do CFO as informações de vendas. Para a cosntrução foram utilizados o Flask, Render e o Telegran. Segue a arquitetura do bot:
 
-
-![Arquitetura](img/Arquitetura.png)
-
+![Arquitetura](https://raw.githubusercontent.com/Andre10DS/rossmann/main/img/Arquitetura.png)
 
 ### bot em execução:
 
-![Bot_Rossmann](img/Bot_Rossmann.gif)
+![Bot_Rossmann](https://raw.githubusercontent.com/Andre10DS/rossmann/main/img/Bot_Rossmann.gif)
 
 
 # 8. Conclusão
