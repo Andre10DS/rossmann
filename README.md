@@ -183,13 +183,9 @@ Conforme planejamento, foi construindo um bot no Telegram para facilitar o acess
 
 ![Arquitetura](https://raw.githubusercontent.com/Andre10DS/rossmann/main/img/Arquitetura.png)
 
-<img src="/img/Arquitetura.png" alt="Score" title="Arquitetura" align="center" height="600" class="center"/>
-
 ### bot em execução:
 
 ![Bot_Rossmann](https://raw.githubusercontent.com/Andre10DS/rossmann/main/img/Bot_Rossmann.gif)
-
-<img src="/img/Bot_Rossmann.gif" alt="Score" title="Bot_Rossmann" align="center" height="600" class="center"/>
 
 # 8. Conclusão
 
