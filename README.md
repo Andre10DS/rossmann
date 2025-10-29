@@ -119,17 +119,17 @@ A análise exploratória dos dados, juntamente com as analises descritivas, perm
 
 H1: Lojas com competidores à mais tempo devem vender mais.
 
-![Hipotese_1](https://raw.githubusercontent.com/Andre10DS/rossmann/main/img/Hipotese_1.png)
+![Hipotese_1](https://raw.githubusercontent.com/Andre10DS/rossmann/main/img/Hipotese_1.png?raw=true)
 
 Hipótese Falsa: As lojas apresentam um aumento ao longo do tempo até determinado período onde ocorre uma inversão e o faturamento cai até estabilizar com uma leve tendência de queda.
 
 H2: Lojas com maior sortimentos deveriam vender mais.
 
-![Sortimento](https://raw.githubusercontent.com/Andre10DS/rossmann/main/img/Sortimento.png)
+![Sortimento](https://raw.githubusercontent.com/Andre10DS/rossmann/main/img/Sortimento.png?raw=true)
 
 
 
-<img src="https://raw.githubusercontent.com/Andre10DS/rossmann/main/img/Sortimento.png" width="400">
+<img src="https://raw.githubusercontent.com/Andre10DS/rossmann/main/img/Sortimento.png?raw=true" width="400">
 
 Hipótese falsa: Lojas com sortimento maior tem um menor faturamento.
 
