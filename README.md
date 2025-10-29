@@ -1,6 +1,10 @@
 
 ![Rossmann](img/rossmann_logo.png)
 
+
+
+![Rossmanndd](https://raw.githubusercontent.com/Andre10DS/rossmann/main/img/rossmann_logo.png)
+
 ## Este projeto tem o objetivo de realizar a previsão de vendas da rede de farmácia Rossmann
 
 A rede de farmácias Rossmann possuí cerca de 4000 drogarias em 7 países europeus.
