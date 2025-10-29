@@ -127,6 +127,10 @@ H2: Lojas com maior sortimentos deveriam vender mais.
 
 ![Sortimento](https://raw.githubusercontent.com/Andre10DS/rossmann/main/img/Sortimento.png)
 
+
+
+<img src="https://raw.githubusercontent.com/Andre10DS/rossmann/main/img/Sortimento.png" width="400">
+
 Hipótese falsa: Lojas com sortimento maior tem um menor faturamento.
 
 
